@@ -8,7 +8,7 @@
 
 ## General info
 
-This project is a responsive mobile friendly Landing Page project. It works on all types of devices including desktop, laptop, tablet and smartphones.
+This project is a responsive simple weather info giving website.
 
 ## Features
 
