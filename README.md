@@ -12,7 +12,7 @@ This project is a responsive simple weather info giving website.
 
 ## Features
 
-I have used the Openweathermap.com API key in order to inherit the information regarding the temperature, location and the time zone. 
+In this project, I have used the Openweathermap.com API key in order to inherit the information regarding the temperature, location and the time zone. 
 
 ## Technologies
 
