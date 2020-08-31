@@ -1,4 +1,4 @@
-# Responcive_Weather_Project
+# Responsive_Weather_Project
 
 ## Table of contents
 
