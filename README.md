@@ -8,7 +8,7 @@
 
 ## General info
 
-This project is a responsive simple weather info giving website.
+This project is a responsive simple weather info giving website project.
 
 ## Features
 
