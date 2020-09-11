@@ -8,7 +8,7 @@
 
 ## General info
 
-This project is a responsive simple weather info giving website project.
+This project is a responsive simple weather info giving website project. This is my first project where I have used API key first time after successfully learning. 
 
 ## Features
 
